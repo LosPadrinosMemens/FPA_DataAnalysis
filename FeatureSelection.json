@@ -67,9 +67,7 @@
         "Month_Sep",
         "VisitorType_New_Visitor",
         "VisitorType_Other",
-        "VisitorType_Returning_Visitor",
-        "PageValues_Binned_Zero",
-        "PageValues_Binned_Positive"
+        "VisitorType_Returning_Visitor"
     ],
     "MI": [
         "PageValues",
